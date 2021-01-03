@@ -16,4 +16,4 @@ In order deploy an application with a MongoDB database to Heroku, I set up a Mon
 
 ![Fitness](https://dry-meadow-51216.herokuapp.com/?id=5ff22da9dca38d0017da43ea)
 
-![Fitness]("./assets/fitnesstracker.png)
+![Fitness](./assets/fitnesstracker.png)
